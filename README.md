@@ -18,7 +18,7 @@ The target is to analyse and predict customer behaviour - whether the customer w
 
 ### **Analytcal Insights**
 ![ReadMe Image](https://github.com/nelettelouw/Car-Insurance/blob/main/Insurance%20Claims%20(Age%20Group).PNG
-![ReadMe Image]
+![ReadMe Image] https://github.com/nelettelouw/Car-Insurance/blob/main/Past%20Accidents.PNG
 ![ReadMe Image]
 
 ### **Metrics for best models**
