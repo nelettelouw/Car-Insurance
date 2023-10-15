@@ -49,7 +49,15 @@ When Past Accidents and Speeding Violations are compared, it shows that the more
 
 Claims made by customers gets lower with the more ```Years of Driving Experience``` a customer has. Customers who fall in the bracket ```10-19 years of Driving Experience``` shows to make the least claims overall.
 
-## **Metrics For The Best Model**
-![ReadMe Image]
+## **The Best Model**
+### **Logistic Regression with PCA**
+  
+**Metrics**
+      
+![ReadMe Image](https://github.com/nelettelouw/Car-Insurance/blob/main/Metrics%20of%20Best%20Model.PNG)
 
-## **Summary**
+The production model that I would choose is the Logistic Regression with PCA due to the fact that it has the highest accuracy rate of 86%. PCA will also be an advantage when dealing with big data sets.
+
+## **Recommendations**
+  - It is recommended that the insurance company should pay close attention to all the correlations and relationships that's been shown in the visualizations when determining the insurance premium of a customer.
+  - Customers in the age group 40-64 year will mostly also the customers with most years of driving experience. To enhance and attracks more business, this age group's premiums could potentially be discounted.
