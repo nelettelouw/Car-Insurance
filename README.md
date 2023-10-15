@@ -60,4 +60,4 @@ The production model that I would choose is the Logistic Regression with PCA due
 
 ## **Recommendations**
   - It is recommended that the insurance company should pay close attention to all the correlations and relationships that's been shown in the visualizations when determining the insurance premium of a customer.
-  - Customers in the age group 40-64 year will mostly also the customers with most years of driving experience. To enhance and attracks more business, this age group's premiums could potentially be discounted.
+  - Customers in the age group 40-64 year will also mostly be the customers with most years of driving experience. To enhance and attracks more business, this age group's premiums could potentially be discounted.
