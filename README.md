@@ -17,7 +17,7 @@ Each row represents the data of a customer and the feature "Outcome" indicates w
 The target is to analyse and predict customer behaviour - whether the customer will claim against their insurance or not. The problem statement will therefor be a binary classification problem.
 
 ### **Analytcal Insights**
-![ReadMe Image]
+![ReadMe Image](https://github.com/nelettelouw/Car-Insurance/blob/main/Insurance%20Claims%20(Age%20Group).PNG
 ![ReadMe Image]
 ![ReadMe Image]
 
