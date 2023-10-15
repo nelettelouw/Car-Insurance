@@ -1,6 +1,6 @@
 # **Analysis of Customer Behaviours Over Car Insurance**
 
-### Author: Nelette Louw
+Author: Nelette Louw
 ## **Business Case:**
 To analyse and understand the car insurance data and it's relationship to customer behaviours.
 
